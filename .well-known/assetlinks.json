@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.pedrolucasfdl10_create.twa",
+        "sha256_cert_fingerprints": ["6B:2C:07:E6:25:FE:BD:0D:38:B5:11:4D:99:CD:DC:86:92:70:B0:CF:0C:EA:EA:75:1B:6C:E7:42:FE:1F:A8:E8"]
+      }
+    }]
